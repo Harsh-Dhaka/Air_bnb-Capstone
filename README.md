@@ -1,0 +1,2 @@
+# Air_bnb-Capstone
+The selected dataset belongs to the in-depth details of Airbnb rental stays and the property  description with stay feedback. The records of stay in the dataset about 500,000 entries and 89  attributes in it including target variables such as daily price, weekly price and monthly price. Problem statement of the dataset is to predict prices for the upcoming future. This problem  statement puts us in the domain of Sales Prediction. 
