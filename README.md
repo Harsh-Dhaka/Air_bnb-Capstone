@@ -14,6 +14,8 @@ The selected dataset belongs to the in-depth details of Airbnb rental stays and 
 * Some attributed (e.g. Square feet) had more tan 70% of missing values in it, which had to be dropped.
 * We dropped null values from attributes which were negligible in count as compared to total data.
 * We also imputed some of the missing values accordingly, if a particular variable is numerical than we imputed mean value or if the variable is categorical then we imputed mode value.
+* After imputing missing values we done some feature engineering for getting a better information from the data.(E.g. In feature States there are several unique values present, we put them in four regions North,East,West,South.)
+* Then we checked all features and done what is  needed for the requisite features, like removing special characters and bin some features by using user defined functions.
 
 # Statistical Analysis:
 * We performed some statistical tests to check the significance of any particular variable for the modelling or to see the significance with target variable.
