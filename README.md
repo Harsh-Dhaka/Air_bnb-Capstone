@@ -26,7 +26,7 @@ The selected dataset belongs to the in-depth details of Airbnb rental stays and 
 * After considering the significant variables on the basis of p-value we were able to get approx 58 r2 score value.
 * For the next model we perform some hyper-parameter tuning and also used feature selection techniques such as RFE and SFS.
 * At the final model we were able to get a r2 score value approx 73.
-* From the above analysis and modelling, for business perspective we see which variables show impact on rental price of an air_bnb property.
+* From the above analysis and modelling, for business perspective we see which variables show impact on rental price of an air_bnb property
 
 
 
